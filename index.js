@@ -4,7 +4,7 @@ const ctx = canvas.getContext("2d");
 const imageWidth = 928;
 const imageHeight = 793;
 
-let gameSpeed = 5;
+let gameSpeed = 2;
 let x = 0;
 let x2 = imageWidth;
 
